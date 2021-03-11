@@ -1,3 +1,8 @@
 # Homework
+
 Data Science Homework
-March 10 added homework
+
+Amanda M
+
+Homework 2 Python: Math, Strings, If-Else, Expressions
+week_02_homework.ipynb
