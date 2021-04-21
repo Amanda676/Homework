@@ -38,11 +38,31 @@ Why do you think there is a table for category
 and a table for film category?
 */
 
-select count(*)
-from category
+SELECT count(*) num_films, name
+FROM category c
+LEFT JOIN film_category f
+	ON c.category_id = f.category_id
+GROUP BY name
+ORDER BY num_films DESC
 
 /*
-There are 16 film categories
+There are 16 film categories:
+74	"Sports"
+73	"Foreign"
+69	"Family"
+68	"Documentary"
+66	"Animation"
+64	"Action"
+63	"New"
+62	"Drama"
+61	"Sci-Fi"
+61	"Games"
+60	"Children"
+58	"Comedy"
+57	"Travel"
+57	"Classics"
+56	"Horror"
+51	"Music"
 */
 
 
@@ -56,10 +76,6 @@ of changing it in every entry of film_category.
 Other than that, I don't know why you might split the information up.
 */
 
-
-select film_id
-from film_category
-where category_id is null
 
 4.	Show a roster for the staff that includes their 
 email, address, city, and country (not ids)
