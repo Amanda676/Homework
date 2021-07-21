@@ -19,11 +19,13 @@ Before running, download the cats.py and cats_txt.txt to the same directory of y
 3. At the command prompt, type:
         python3 cats.py
 
-![vino map png](https://github.com/Amanda676/Homework/blob/main/Week_20/cats_command.png)
+![cats.py command line png](https://github.com/Amanda676/Homework/blob/main/Week_20/cats_command.png)
 
 4. Press return.
 
 5. cats.py returns the word frequency from cats_txt.txt descending from most frequent.
+
+![cats.py output png](https://github.com/Amanda676/Homework/blob/main/Week_20/cats_output.png)
 
 ### Alternative run
 
