@@ -6,14 +6,27 @@
  Make sure to handle capital and lowercase versions of words and count them together.
  '''
 import sys
-from nltk.tokenize import wordpunct_tokenize
-from collections import Counter
 
-cats_file = open('cats_txt.txt', 'r') 
-cats = cats_file.read().replace("\n", " ")
-cats_file.close()
 
-cats = cats.lower()
-cats_tokens = wordpunct_tokenize(cats)
-cats_freq = Counter(cats_tokens)
-print(cats_freq.most_common())
+def text_freq(filename):
+    '''
+    Takes in a string that is a filename.
+    Outputs words and punctuation with frequency
+    ''' 
+    from nltk.tokenize import wordpunct_tokenize
+    from collections import Counter 
+
+    cats_file = open(filename, 'r') 
+    # read file as string   
+    cats = cats_file.read().replace("\n", " ")
+    cats_file.close()
+    # make string lowercase
+    cats = cats.lower()
+    # tokenize
+    cats_tokens = wordpunct_tokenize(cats)
+    # create frequency list
+    cats_freq = Counter(cats_tokens)
+
+    return cats_freq.most_common()
+
+print(text_freq('cats_txt.txt'))
