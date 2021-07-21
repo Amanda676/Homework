@@ -31,3 +31,7 @@ Before running, download the cats.py and cats_txt.txt to the same directory of y
 
 If you have execute permission on the file, it is possible to run it from the directory it was placed in using:
         ./cats.py
+
+### Why?
+
+Being able to create a 'bag of words' frequency list would be helpful Natural Language Processing (NLP) because it can useful to know the most frequent to quickly know what a text is about.
