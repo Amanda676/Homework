@@ -1,0 +1,523 @@
+[
+    {
+        "Address": "17352 Manchester Rd Wildwood, MO 63038",
+        "Category": [
+            "American (Traditional)",
+            "Burgers",
+            "Sandwiches"
+        ],
+        "Number_Reviews": "134 reviews",
+        "Rank": 1,
+        "Restaurant_Name": "Big Chief Roadhouse",
+        "Stars": "4 star rating"
+    },
+    {
+        "Address": "16721 Main St Wildwood, MO 63040",
+        "Category": [
+            "Pizza",
+            "Italian",
+            "Bars"
+        ],
+        "Number_Reviews": "118 reviews",
+        "Rank": 2,
+        "Restaurant_Name": "Benedetto's On Main",
+        "Stars": "3.5 star rating"
+    },
+    {
+        "Address": "16524 Manchester Rd Wildwood, MO 63040",
+        "Category": [
+            "American (New)"
+        ],
+        "Number_Reviews": "82 reviews",
+        "Rank": 3,
+        "Restaurant_Name": "Craft",
+        "Stars": "3.5 star rating"
+    },
+    {
+        "Address": "17253 New College Ave Wildwood, MO 63040",
+        "Category": [
+            "Burgers",
+            "Sports Bars",
+            "Pizza"
+        ],
+        "Number_Reviews": "101 reviews",
+        "Rank": 4,
+        "Restaurant_Name": "Wildwood Pub & Grill",
+        "Stars": "3.5 star rating"
+    },
+    {
+        "Address": "15939 Manchester Rd Ellisville, MO 63011",
+        "Category": [
+            "Mexican",
+            "Cocktail Bars"
+        ],
+        "Number_Reviews": "144 reviews",
+        "Rank": 5,
+        "Restaurant_Name": "Malinche Mexican Culinary Experience",
+        "Stars": "5 star rating"
+    },
+    {
+        "Address": "505 Strecker Rd Ballwin, MO 63011",
+        "Category": [
+            "American (New)"
+        ],
+        "Number_Reviews": "87 reviews",
+        "Rank": 6,
+        "Restaurant_Name": "Parkside Grille",
+        "Stars": "4 star rating"
+    },
+    {
+        "Address": "17209 New College Ave Wildwood, MO 63040",
+        "Category": [
+            "Cafes",
+            "Breakfast & Brunch"
+        ],
+        "Number_Reviews": "88 reviews",
+        "Rank": 7,
+        "Restaurant_Name": "Letty Lou's Cafe",
+        "Stars": "3.5 star rating"
+    },
+    {
+        "Address": "2436 Taylor Rd Wildwood, MO 63040",
+        "Category": [
+            "Thai",
+            "Noodles",
+            "Tapas/Small Plates"
+        ],
+        "Number_Reviews": "75 reviews",
+        "Rank": 8,
+        "Restaurant_Name": "Thai Bistro",
+        "Stars": "4 star rating"
+    },
+    {
+        "Address": "40 Clarkson Wilson Ctr Chesterfield, MO 63017",
+        "Category": [
+            "Barbeque",
+            "Burgers",
+            "Chicken Wings"
+        ],
+        "Number_Reviews": "36 reviews",
+        "Rank": 9,
+        "Restaurant_Name": "The Stellar Hog",
+        "Stars": "4.5 star rating"
+    },
+    {
+        "Address": "122A S Central Ave Eureka, MO 63025",
+        "Category": [
+            "American (Traditional)",
+            "Chicken Wings",
+            "Dive Bars"
+        ],
+        "Number_Reviews": "60 reviews",
+        "Rank": 10,
+        "Restaurant_Name": "Chick-N-Elly's",
+        "Stars": "4 star rating"
+    },
+    {
+        "Address": "106 S Central Ave Eureka, MO 63025",
+        "Category": [
+            "Mexican"
+        ],
+        "Number_Reviews": "23 reviews",
+        "Rank": 11,
+        "Restaurant_Name": "Hola! Mexican Food",
+        "Stars": "4.5 star rating"
+    },
+    {
+        "Address": "1384 Clarkson Clayton Ctr Ellisville, MO 63011",
+        "Category": [
+            "Bars",
+            "Pizza"
+        ],
+        "Number_Reviews": "57 reviews",
+        "Rank": 12,
+        "Restaurant_Name": "The Crafty Chameleon Bar",
+        "Stars": "4.5 star rating"
+    },
+    {
+        "Address": "11 Clarkson Rd Ellisville, MO 63011",
+        "Category": [
+            "American (Traditional)",
+            "Bars",
+            "Chicken Wings"
+        ],
+        "Number_Reviews": "106 reviews",
+        "Rank": 13,
+        "Restaurant_Name": "Mulligan's Grill",
+        "Stars": "4 star rating"
+    },
+    {
+        "Address": "15480 Clayton Rd Ballwin, MO 63011",
+        "Category": [
+            "Coffee & Tea",
+            "Salad"
+        ],
+        "Number_Reviews": "295 reviews",
+        "Rank": 14,
+        "Restaurant_Name": "The Wolf",
+        "Stars": "4.5 star rating"
+    },
+    {
+        "Address": "15824 Fountains Plz Dr Chesterfield, MO 63017",
+        "Category": [
+            "Sports Bars",
+            "American (New)",
+            "Pubs"
+        ],
+        "Number_Reviews": "130 reviews",
+        "Rank": 15,
+        "Restaurant_Name": "The Corner Pub and Grill",
+        "Stars": "4 star rating"
+    },
+    {
+        "Address": "2801 Fountain Pl Wildwood, MO 63040",
+        "Category": [
+            "Barbeque"
+        ],
+        "Number_Reviews": "1 review",
+        "Rank": 16,
+        "Restaurant_Name": "Wildwood BBQ Bash",
+        "Stars": "4 star rating"
+    },
+    {
+        "Address": "2408 Taylor Rd Grover, MO 63040",
+        "Category": [
+            "Mexican"
+        ],
+        "Number_Reviews": "66 reviews",
+        "Rank": 17,
+        "Restaurant_Name": "El Maguey",
+        "Stars": "3.5 star rating"
+    },
+    {
+        "Address": "Dierbergs Town Ctr 2480 Taylor Road Wildwood, MO 63040",
+        "Category": [
+            "Breakfast & Brunch",
+            "Coffee & Tea",
+            "American (New)"
+        ],
+        "Number_Reviews": "67 reviews",
+        "Rank": 18,
+        "Restaurant_Name": "Sunny Street Cafe",
+        "Stars": "3.5 star rating"
+    },
+    {
+        "Address": "15682 Manchester Rd Ellisville, MO 63011",
+        "Category": [
+            "Sports Bars",
+            "American (Traditional)",
+            "Karaoke"
+        ],
+        "Number_Reviews": "32 reviews",
+        "Rank": 19,
+        "Restaurant_Name": "Dogwood Social House",
+        "Stars": "2.5 star rating"
+    },
+    {
+        "Address": "141 S Central Ave Eureka, MO 63025",
+        "Category": [
+            "American (Traditional)",
+            "Pubs",
+            "Irish"
+        ],
+        "Number_Reviews": "100 reviews",
+        "Rank": 20,
+        "Restaurant_Name": "O'Dell's Irish Pub & Ale House",
+        "Stars": "4 star rating"
+    },
+    {
+        "Address": "15493 Manchester Rd Ballwin, MO 63011",
+        "Category": [
+            "Mexican",
+            "Greek",
+            "Vegetarian"
+        ],
+        "Number_Reviews": "214 reviews",
+        "Rank": 21,
+        "Restaurant_Name": "St Louis Taco and Pita Grill",
+        "Stars": "4.5 star rating"
+    },
+    {
+        "Address": "14810 Clayton Rd Chesterfield, MO 63017",
+        "Category": [
+            "Breakfast & Brunch",
+            "Juice Bars & Smoothies",
+            "Cocktail Bars"
+        ],
+        "Number_Reviews": "220 reviews",
+        "Rank": 22,
+        "Restaurant_Name": "Shack Breakfast & Lunch ",
+        "Stars": "4.5 star rating"
+    },
+    {
+        "Address": "16584 Manchester Rd Wildwood, MO 63040",
+        "Category": [
+            "Chinese"
+        ],
+        "Number_Reviews": "36 reviews",
+        "Rank": 23,
+        "Restaurant_Name": "Yen Ching",
+        "Stars": "3.5 star rating"
+    },
+    {
+        "Address": "127 S Central Ave Eureka, MO 63025",
+        "Category": [
+            "Breakfast & Brunch",
+            "Cafes",
+            "Sandwiches"
+        ],
+        "Number_Reviews": "73 reviews",
+        "Rank": 24,
+        "Restaurant_Name": "Sarah's on Central",
+        "Stars": "4 star rating"
+    },
+    {
+        "Address": "1637 Clarkson Rd Chesterfield, MO 63017",
+        "Category": [
+            "Italian",
+            "Beer Bar",
+            "Desserts"
+        ],
+        "Number_Reviews": "78 reviews",
+        "Rank": 25,
+        "Restaurant_Name": "Sauce on the Side",
+        "Stars": "4.5 star rating"
+    },
+    {
+        "Address": "4900 Six Flags Rd Pacific, MO 63069",
+        "Category": [
+            "Sports Bars",
+            "Barbeque"
+        ],
+        "Number_Reviews": "2 reviews",
+        "Rank": 26,
+        "Restaurant_Name": "JB\u2019s Smokehouse & Sports Bar",
+        "Stars": "4.5 star rating"
+    },
+    {
+        "Address": "17189 New College Ave Wildwood, MO 63040",
+        "Category": [
+            "Chinese"
+        ],
+        "Number_Reviews": "18 reviews",
+        "Rank": 27,
+        "Restaurant_Name": "Panda Chinese Restaurant",
+        "Stars": "4 star rating"
+    },
+    {
+        "Address": "15344 Manchester Rd Ballwin, MO 63011",
+        "Category": [
+            "Mediterranean"
+        ],
+        "Number_Reviews": "132 reviews",
+        "Rank": 28,
+        "Restaurant_Name": "Phoenicia Mediterranean Deli",
+        "Stars": "4.5 star rating"
+    },
+    {
+        "Address": "1737 Clarkson Rd Chesterfield, MO 63017",
+        "Category": [
+            "Sushi Bars",
+            "Japanese",
+            "Steakhouses"
+        ],
+        "Number_Reviews": "67 reviews",
+        "Rank": 29,
+        "Restaurant_Name": "Ninja Japanese Sushi Bar & Steak House",
+        "Stars": "4.5 star rating"
+    },
+    {
+        "Address": "108 Hilltop Vlg Ctr Dr Eureka, MO 63025",
+        "Category": [
+            "American (New)"
+        ],
+        "Number_Reviews": "61 reviews",
+        "Rank": 30,
+        "Restaurant_Name": "Poor Richards Restaurant & Sports Club",
+        "Stars": "3 star rating"
+    },
+    {
+        "Address": "15622 Manchester Rd Ellisville, MO 63011",
+        "Category": [
+            "Chicken Wings"
+        ],
+        "Number_Reviews": 0,
+        "Rank": 31,
+        "Restaurant_Name": "The Masked Chicken",
+        "Stars": ""
+    },
+    {
+        "Address": "16461 Village Plaza View Grover, MO 63040",
+        "Category": [
+            "Mexican"
+        ],
+        "Number_Reviews": "76 reviews",
+        "Rank": 32,
+        "Restaurant_Name": "Vallarta Mexican Restaurant",
+        "Stars": "3.5 star rating"
+    },
+    {
+        "Address": "128 Boccardi Ln Eureka, MO 63025",
+        "Category": [
+            "Pizza",
+            "Italian",
+            "Sandwiches"
+        ],
+        "Number_Reviews": "92 reviews",
+        "Rank": 33,
+        "Restaurant_Name": "Joe Boccardi's Ristorante",
+        "Stars": "3.5 star rating"
+    },
+    {
+        "Address": "15860 Fountain Plaza Dr Ellisville, MO 63017",
+        "Category": [
+            "American (New)"
+        ],
+        "Number_Reviews": "95 reviews",
+        "Rank": 34,
+        "Restaurant_Name": "Veritas Gateway to Food & Wine",
+        "Stars": "4 star rating"
+    },
+    {
+        "Address": "15581 Manchester Rd Ballwin, MO 63011",
+        "Category": [
+            "Greek",
+            "Mediterranean",
+            "Sports Bars"
+        ],
+        "Number_Reviews": "61 reviews",
+        "Rank": 35,
+        "Restaurant_Name": "Babal-Hara Gyros",
+        "Stars": "4.5 star rating"
+    },
+    {
+        "Address": "15310 Manchester Rd Ellisville, MO 63011",
+        "Category": [
+            "Italian"
+        ],
+        "Number_Reviews": "61 reviews",
+        "Rank": 36,
+        "Restaurant_Name": "Massa's Restaurant",
+        "Stars": "4 star rating"
+    },
+    {
+        "Address": "104 S Central Ave Eureka, MO 63025",
+        "Category": [
+            "Cafes"
+        ],
+        "Number_Reviews": "67 reviews",
+        "Rank": 38,
+        "Restaurant_Name": "Michelle's Cafe",
+        "Stars": "3.5 star rating"
+    },
+    {
+        "Address": "54 The Legends Pkwy Ste 152 Eureka, MO 63025",
+        "Category": [
+            "Tex-Mex",
+            "Mexican"
+        ],
+        "Number_Reviews": "47 reviews",
+        "Rank": 39,
+        "Restaurant_Name": "Camila's Tex-Mex",
+        "Stars": "4 star rating"
+    },
+    {
+        "Address": "15638 Manchester Rd Ellisville, MO 63011",
+        "Category": [
+            "Pizza"
+        ],
+        "Number_Reviews": "134 reviews",
+        "Rank": 40,
+        "Restaurant_Name": "Boardwalk Pizza",
+        "Stars": "4.5 star rating"
+    },
+    {
+        "Address": "16445 Village Plaza View Dr Wildwood, MO 63011",
+        "Category": [
+            "Chinese"
+        ],
+        "Number_Reviews": "29 reviews",
+        "Rank": 43,
+        "Restaurant_Name": "Hunan Express",
+        "Stars": "3.5 star rating"
+    },
+    {
+        "Address": "601 Stockell Dr Eureka, MO 63025",
+        "Category": [
+            "Barbeque"
+        ],
+        "Number_Reviews": "169 reviews",
+        "Rank": 44,
+        "Restaurant_Name": "Super Smokers BBQ",
+        "Stars": "3.5 star rating"
+    },
+    {
+        "Address": "15307 Manchester Rd Ballwin, MO 63011",
+        "Category": [
+            "Mexican",
+            "Salad",
+            "Bars"
+        ],
+        "Number_Reviews": "179 reviews",
+        "Rank": 45,
+        "Restaurant_Name": "Mi Lupita",
+        "Stars": "4 star rating"
+    },
+    {
+        "Address": "1312 Clarkson Clayton Ctr Ellisville, MO 63011",
+        "Category": [
+            "Pizza",
+            "Salad",
+            "Gluten-Free"
+        ],
+        "Number_Reviews": "170 reviews",
+        "Rank": 46,
+        "Restaurant_Name": "Dewey's Pizza",
+        "Stars": "4.5 star rating"
+    },
+    {
+        "Address": "1386 Clarkson Clayton Ctr Ellisville, MO 63011",
+        "Category": [
+            "American (Traditional)",
+            "Sports Bars"
+        ],
+        "Number_Reviews": "205 reviews",
+        "Rank": 47,
+        "Restaurant_Name": "Walnut Grill- Ellisville",
+        "Stars": "3 star rating"
+    },
+    {
+        "Address": "15858 Manchester Rd Ellisville, MO 63011",
+        "Category": [
+            "Pizza",
+            "Italian",
+            "Sandwiches"
+        ],
+        "Number_Reviews": "90 reviews",
+        "Rank": 48,
+        "Restaurant_Name": "Pizzarelli's",
+        "Stars": "4 star rating"
+    },
+    {
+        "Address": "15583 Manchester Rd Ballwin, MO 63011",
+        "Category": [
+            "Japanese",
+            "Sushi Bars"
+        ],
+        "Number_Reviews": "61 reviews",
+        "Rank": 49,
+        "Restaurant_Name": "Chunmi Sushi",
+        "Stars": "4.5 star rating"
+    },
+    {
+        "Address": "16441 Village Plaza Vw Dr Ballwin, MO 63011",
+        "Category": [
+            "Bars",
+            "American (Traditional)"
+        ],
+        "Number_Reviews": "8 reviews",
+        "Rank": 50,
+        "Restaurant_Name": "Casey's Bar",
+        "Stars": "3.5 star rating"
+    }
+]
